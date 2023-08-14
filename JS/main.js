@@ -87,7 +87,7 @@ function createHTML(todo) {
 
   //make a div to contain timestamp and remove button
   const listExEl = document.createElement("div");
-  listExEl.classList.add("list-Ex");
+  listExEl.classList.add("list-ex");
 
   //make remove button with click to delete its element
   const removeButton = document.createElement("img");
