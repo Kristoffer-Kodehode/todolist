@@ -59,8 +59,8 @@ li {
   background-color: rgb(110, 22, 39);
   color: #dfdfdf;
   width: fit-content;
-  min-width: 150px;
-  max-width: 250px;
+  min-width: 200px;
+  max-width: 300px;
   padding: 7px 10px;
   border-radius: 7px;
   margin: 10px;
