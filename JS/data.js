@@ -55,9 +55,9 @@ function timeStamp2DateTime(timeStamp) {
   };
 
   let dateFormat = new Intl.DateTimeFormat("no-NO", dateOptions);
-  let viewFormattedDate = dateFormat.format(timeStamp);
+  let formattedDate = dateFormat.format(timeStamp);
 
-  return viewFormattedDate;
+  return formattedDate;
 }
 
 //exporting stuff used in main
